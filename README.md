@@ -10,19 +10,21 @@ The goal of this project is to analyze the industrial structure of all provinces
 
 Data Source: 
 1.	Industrial and Economic Data:
+
   o	Provincial GDP by industry (Statistics Canada).
 
   o	Employment by industry and province (Labour Force Survey, Statistics Canada).
 
-3.	Trade and Tariff Data:
+2.	Trade and Tariff Data:
   o	Current U.S.-Canada trade flows by industry (Statistics Canada, US International Trade Commission, US Census Bureau).
   o	Historical tariff data (World Bank, WTO).
 
-4.	Geospatial Data:
+3.	Geospatial Data:
   o	Provincial and regional boundaries (Natural Resources Canada).
   o	Location of key industries (still figuring out).
   o	Transportation networks (ports, railways, highways).
-5.	Demographic Data:
+
+4.	Demographic Data:
   o	Population distribution by province (Statistics Canada).
   o	Labor force demographics.
 
