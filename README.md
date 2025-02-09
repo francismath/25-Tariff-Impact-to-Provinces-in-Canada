@@ -16,16 +16,23 @@ Data Source:
       o	Employment by industry and province (Labour Force Survey, Statistics Canada).
 
 2.	Trade and Tariff Data:
-  o	Current U.S.-Canada trade flows by industry (Statistics Canada, US International Trade Commission, US Census Bureau).
-  o	Historical tariff data (World Bank, WTO).
+   
+      o	Current U.S.-Canada trade flows by industry (Statistics Canada, US International Trade Commission, US Census Bureau).
+
+  	  o	Historical tariff data (World Bank, WTO).
 
 3.	Geospatial Data:
-  o	Provincial and regional boundaries (Natural Resources Canada).
-  o	Location of key industries (still figuring out).
-  o	Transportation networks (ports, railways, highways).
+
+      o	Provincial and regional boundaries (Natural Resources Canada).
+  
+      o	Location of key industries (still figuring out).
+  
+      o	Transportation networks (ports, railways, highways).
 
 4.	Demographic Data:
-  o	Population distribution by province (Statistics Canada).
-  o	Labor force demographics.
+
+  	  o	Population distribution by province (Statistics Canada).
+
+  	  o	Labor force demographics (Statistics Canada).
 
 
